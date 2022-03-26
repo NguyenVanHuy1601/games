@@ -1,1 +1,39 @@
+.footer{
+    background-color: aqua;
+    position: absolute;
+    bottom:0px;
+    display: block;
+    width: 1024px;
+    height: 200px;
+}
+
+.heading-footer {
+    position: relative;
+    left: 50%;
+    top: 10px;
+}
+
+.list-footer {
+    position: relative;
+    display: inline;
+    left: 50%;
+}
+
+li {
+    margin:5px;
+}
+
+.image-list-footer {
+    width:30px;
+    height: 30px;
+}
+
+
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
 
